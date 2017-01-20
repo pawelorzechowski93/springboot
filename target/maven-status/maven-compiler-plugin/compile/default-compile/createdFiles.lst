@@ -1,0 +1,5 @@
+com\orzechowski\Controller\TaskController.class
+com\orzechowski\Dao\TaskDao.class
+com\orzechowski\Main.class
+com\orzechowski\Entity\Task.class
+com\orzechowski\WebInitializer.class
